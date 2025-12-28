@@ -563,7 +563,6 @@ print("6. 📄 algorithm_comparison.csv - Raw data")
 
 from google.colab import files
 
-# Скачиваем все файлы
 files_to_download = [
     'algorithm_comparison.png',
     'algorithm_demo.png',
